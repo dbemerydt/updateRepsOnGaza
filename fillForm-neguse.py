@@ -93,7 +93,7 @@ subject.send_keys(info['subject']+ date_string)
 
 comment.send_keys('Dear Representative Neguse, \n'+body+'\n'+result)
 
-time.sleep(600)
+input("Once you've submitted the Neguse form, press enter here.")
 
-
+driver.close()
 

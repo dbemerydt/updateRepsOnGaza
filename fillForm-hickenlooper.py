@@ -111,7 +111,8 @@ driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 # submit = driver.find_element(By.ID, 'gform_submit_button_17')
 # submit.click()
 
-time.sleep(600)
+input("Once you've submitted the Hickenlooper form, press enter here.")
+driver.close()
 
 
 
