@@ -93,7 +93,7 @@ subject.send_keys(info['subject']+ date_string)
 
 comment.send_keys('Dear Representative Neguse, \n'+body+'\n'+result)
 
-time.sleep(120)
+time.sleep(600)
 
 
 

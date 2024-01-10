@@ -111,7 +111,7 @@ driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 # submit = driver.find_element(By.ID, 'gform_submit_button_17')
 # submit.click()
 
-time.sleep(120)
+time.sleep(600)
 
 
 
