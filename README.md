@@ -14,3 +14,5 @@ subject
 ```
 
 For Senator Hickenlooper and Rep Neguse, you'll have to manually click "submit", as they have infrastructure preventing automated submissions.
+
+Also please edit `messageBody.txt` to say your name instead of mine, and maybe change the language in it if you want?
