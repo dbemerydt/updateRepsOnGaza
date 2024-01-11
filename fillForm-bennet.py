@@ -115,7 +115,7 @@ comment.send_keys('Dear Representative Bennet, \n'+body+'\n'+result)
 submit = driver.find_element(By.XPATH, '//*[@id="form_586CEC0E-021A-4B24-B64E-A937A9EE9C18"]/div[2]/input')
 submit.click()
 
-time.sleep(600)
+driver.close()
 
 
 
